@@ -14,8 +14,9 @@
 <a href="https://rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
 </p>
-- Python: Day to day language for scientific computing problems
-- C: Any bare metal or embedded problems
-- C++: Less used, but I'm familiar enough to get by
-- Rust: Currently learning
-- Lua: Neovim configuration and not much else
+
+ - Python: Day to day language for scientific computing problems
+ - C: Any bare metal or embedded problems
+ - C++: Less used, but I'm familiar enough to get by
+ - Rust: Currently learning
+ - Lua: Neovim configuration and not much else
